@@ -1,0 +1,14 @@
+name: strategies_autogluon
+channels:
+- conda-forge
+dependencies:
+- autogluon.tabular
+- autogluon.timeseries
+- ipykernel
+- jupyter
+- jupyterlab
+- matplotlib
+- nb_conda_kernels
+- pandas_market_calendars
+- python=3.11.7
+
